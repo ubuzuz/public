@@ -11,7 +11,7 @@
   * [Automation, Human Task Innovation, and Labor Share: Unveiling the Role of Elasticity of Substitution](https://github.com/ubuzuz/public/blob/e202933573c09a71cc842ea129f0827ed6e4c7fb/LaborShare/Automation__Human_Task_Innovation__and_Labor_Share.pdf)
 # Instructions for Running the Code
 ```diff
-- **Please do not distribute to the public** 
+- Please do not distribute to the public
 ```
   * Begin by downloading the required files using ~~this link~~. (We will provide this link after publication.)
     * This zip file has been checked and is free of viruses and malware.
@@ -28,7 +28,7 @@
       * Be aware that downloading all vintages directly from the official KLEMS webpage may not work efficiently, or it may require a substantial amount of time.
 ##### The following datasets are not publicly accessible 
 ```diff
-- (Impossible to replicate without these datasets):
+- Impossible to replicate without these datasets
 ```
   * EU-LFS:
     * While this dataset is free, access requires an application for data permission, which typically takes around two months to process.
