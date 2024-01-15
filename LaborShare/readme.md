@@ -13,7 +13,6 @@
 ```diff
 - **Please do not distribute to the public** 
 ```
-  * 
   * Begin by downloading the required files using ~~this link~~. (We will provide this link after publication.)
     * This zip file has been checked and is free of viruses and malware.
     * Please note, initializing the download will take some time due to the large file size.
