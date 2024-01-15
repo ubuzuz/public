@@ -1,14 +1,14 @@
 # Table of contents
 - [Table of contents](#table-of-contents)
-- [Most Recent Documents](#most-recent-documents)
+- [Most Recent Working Paper](#most-recent-working-paper)
 - [Instructions for Running the Code](#instructions-for-running-the-code)
 - [Description of Required Datasets](#description-of-required-datasets)
         - [Public access is allowed under proper citation:](#public-access-is-allowed-under-proper-citation)
         - [The following datasets are not publicly accessible:](#the-following-datasets-are-not-publicly-accessible)
 - [Replication codes and data (for reference. Download is not requried for this paper)](#replication-codes-and-data-for-reference-download-is-not-requried-for-this-paper)
 
-# Most Recent Documents
-  * [Automation, Human Task Innovation, and Labor Share](https://github.com/jayjeo/public/blob/main/Laborshare/LaborShare_Latex.pdf)
+# Most Recent Working Paper
+  * [Automation, Human Task Innovation, and Labor Share: Unveiling the Role of Elasticity of Substitution](https://github.com/jayjeo/public/blob/main/Laborshare/LaborShare_Latex.pdf)
 # Instructions for Running the Code
   * Begin by downloading the required files using ~~this link~~. (We will provide this link after publication.)
     * This zip file has been checked and is free of viruses and malware.
