@@ -8,7 +8,7 @@
 - [Replication codes and data (for reference. Download is not requried for this paper)](#replication-codes-and-data-for-reference-download-is-not-requried-for-this-paper)
 
 # Most Recent Documents
-  * [Working paper](https://github.com/jayjeo/public/blob/main/Laborshare/LaborShare_Latex.pdf)
+  * [Automation, Human Task Innovation, and Labor Share](https://github.com/jayjeo/public/blob/main/Laborshare/LaborShare_Latex.pdf)
 # Instructions for Running the Code
   * Begin by downloading the required files using ~~this link~~. (We will provide this link after publication.)
     * This zip file has been checked and is free of viruses and malware.
