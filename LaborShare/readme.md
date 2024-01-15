@@ -26,7 +26,7 @@
       * Be aware that downloading all vintages directly from the official KLEMS webpage may not work efficiently, or it may require a substantial amount of time.
 ##### The following datasets are not publicly accessible 
 ```diff
-- @@(Impossible to replicate without these datasets):@@ 
+- (Impossible to replicate without these datasets):
 ```
   * EU-LFS:
     * While this dataset is free, access requires an application for data permission, which typically takes around two months to process.
