@@ -4,7 +4,7 @@
 - [Instructions for Running the Code](#instructions-for-running-the-code)
 - [Description of Required Datasets](#description-of-required-datasets)
         - [Public access is allowed under proper citation:](#public-access-is-allowed-under-proper-citation)
-        - [The following datasets are not publicly accessible (Impossible to replicate without these datasets):](#the-following-datasets-are-not-publicly-accessible-impossible-to-replicate-without-these-datasets)
+        - [The following datasets are not publicly accessible](#the-following-datasets-are-not-publicly-accessible)
 - [Replication codes and data (for reference. Download is not requried for this paper)](#replication-codes-and-data-for-reference-download-is-not-requried-for-this-paper)
 
 # Most Recent Working Paper
@@ -24,7 +24,10 @@
       * To access the 2023 vintage release of KLEMS, visit https://euklems-intanprod-llee.luiss.it/.
       * For the download of all available vintages, refer to Gutiérrez, G., & Piton, S. (2020)'s replication code and data.
       * Be aware that downloading all vintages directly from the official KLEMS webpage may not work efficiently, or it may require a substantial amount of time.
-##### The following datasets are not publicly accessible (Impossible to replicate without these datasets): 
+##### The following datasets are not publicly accessible 
+```diff
+- @@(Impossible to replicate without these datasets):@@ 
+```
   * EU-LFS:
     * While this dataset is free, access requires an application for data permission, which typically takes around two months to process.
     * We are using the 2023 release of this dataset.
