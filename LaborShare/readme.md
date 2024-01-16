@@ -10,7 +10,7 @@
 # Most Recent Paper
   * [Automation, Human Task Innovation, and Labor Share: Unveiling the Role of Elasticity of Substitution](https://github.com/ubuzuz/public/blob/main/LaborShare/Automation_Human_Task_Innovation_and_Labor_Share.pdf)
 # Instructions for Running the Code
-  * Begin by downloading the files using [this link](https://www.dropbox.com/scl/fi/g216vernpwxh54u7mardk/LaborShareCode.zip?rlkey=42n7kje3l3ddjzw1tvckijfmp&dl=0)
+  * Begin by downloading the files using [this link](https://www.dropbox.com/scl/fi/7zvozvt08jxa917ewcye4/LaborShareCode.zip?rlkey=gf58u12ad5lbk2ks20pg2lxrh&dl=0)
     * This zip file has been verified and is free from viruses and malware.
     * Please be aware that initializing the download may take some time due to the large size of the file.
   * After the download is complete, execute the file named 'master.do'.
