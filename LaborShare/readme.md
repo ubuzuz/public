@@ -1,18 +1,15 @@
 # Table of contents
 - [Table of contents](#table-of-contents)
-- [Most Recent Working Paper](#most-recent-working-paper)
+- [Most Recent Paper](#most-recent-paper)
 - [Instructions for Running the Code](#instructions-for-running-the-code)
 - [Description of Required Datasets](#description-of-required-datasets)
         - [Public access is allowed under proper citation:](#public-access-is-allowed-under-proper-citation)
         - [The following datasets are not publicly accessible](#the-following-datasets-are-not-publicly-accessible)
-- [Replication codes and data (for reference. Download is not requried for this paper)](#replication-codes-and-data-for-reference-download-is-not-requried-for-this-paper)
+- [Replication codes and data are provided for reference (Downloading them is not required for this paper).](#replication-codes-and-data-are-provided-for-reference-downloading-them-is-not-required-for-this-paper)
 
-# Most Recent Working Paper
+# Most Recent Paper
   * [Automation, Human Task Innovation, and Labor Share: Unveiling the Role of Elasticity of Substitution](https://github.com/ubuzuz/public/blob/e202933573c09a71cc842ea129f0827ed6e4c7fb/LaborShare/Automation__Human_Task_Innovation__and_Labor_Share.pdf)
 # Instructions for Running the Code
-```diff
-- Please do not distribute to the public
-```
   * Begin by downloading the required files using ~~this link~~. (We will provide this link after publication.)
     * This zip file has been checked and is free of viruses and malware.
     * Please note, initializing the download will take some time due to the large file size.
@@ -47,7 +44,7 @@
       * Manually download the 8th Round of the Comp-Net file, named ``unconditional_industry2d_all_unweighted''.
       * After downloading, save it in the /Secured folder in the current directory. The file name should be unconditional_industry2d_all_unweighted.dta
 
-# Replication codes and data (for reference. Download is not requried for this paper) 
+# Replication codes and data are provided for reference (Downloading them is not required for this paper). 
 * Gutiérrez, G., & Piton, S. (2020). Revisiting the global decline of the (non-housing) labor share. American Economic Review: Insights, 2(3), 321–338.
 https://www.aeaweb.org/articles?id=10.1257/aeri.20190285
 * Autor, D., Dorn, D., Katz, L. F., Patterson, C., & Reenen, J. V. (2017). Concentrating on the Fall of the Labor Share. American Economic Review, 107(5), 180–185.
